@@ -1,4 +1,4 @@
-#Tic-tac-toe Game#
+# Tic-tac-toe Game 
 
 
 Introducing Tic Tac Toe game – a classic project developed with HTML, CSS, and JavaScript. Gather your friends for hours of fun and competition in this timeless game of X's and O's. 
